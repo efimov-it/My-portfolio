@@ -1,0 +1,90 @@
+{
+  "html5": {
+    "icon": "",
+    "color": ""
+  },
+    "css3": {
+      "icon": "",
+      "color": ""
+    },
+      "bootstrap": {
+        "icon": "",
+        "color": ""
+      },
+        "javaScript": {
+          "icon": "",
+          "color": ""
+        },
+          "react": {
+            "icon": "",
+            "color": ""
+          },
+            "angular": {
+              "icon": "",
+              "color": ""
+            },
+              "vue": {
+                "icon": "",
+                "color": ""
+              },
+                "jquery": {
+                  "icon": "",
+                  "color": ""
+                },
+                  "cordova": {
+                    "icon": "",
+                    "color": ""
+                  },
+                    "php": {
+                      "icon": "",
+                      "color": ""
+                    },
+                      "joomlaCMS": {
+                        "icon": "",
+                        "color": ""
+                      },
+                        "CMSwordpress": {
+                          "icon": "",
+                          "color": ""
+                        },
+                          "ajax": {
+                            "icon": "",
+                            "color": ""
+                          },
+                            "webSocket": {
+                              "icon": "",
+                              "color": ""
+                            },
+                              "json": {
+                                "icon": "",
+                                "color": ""
+                              },
+                                "xml": {
+                                  "icon": "",
+                                  "color": ""
+                                },
+                                  "mySql": {
+                                    "icon": "",
+                                    "color": ""
+                                  },
+                                    "git": {
+                                      "icon": "",
+                                      "color": ""
+                                    },
+                                      "oop": {
+                                        "icon": "",
+                                        "color": ""
+                                      },
+                                        "fp": {
+                                          "icon": "",
+                                          "color": ""
+                                        },
+                                          "spa": {
+                                            "icon": "",
+                                            "color": ""
+                                          },
+                                            "bem": {
+                                              "icon": "",
+                                              "color": ""
+                                            }
+}

@@ -1,0 +1,18 @@
+{
+  "experience": "1.5+ лет",
+  "mail": "work@efimov-it.info",
+  "phone": "+7(962)138-50-66",
+  "social": [
+    {
+      "icon": "",
+      "url": "https://t.me/efimov_it",
+      "color": "#0fa2eb"
+    },
+    {
+      "icon": "",
+      "url": "https://api.whatsapp.com/send?phone=79621385066",
+      "color": "#10ea78"
+    }
+  ],
+  "github": "WfBW"
+}

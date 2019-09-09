@@ -1,0 +1,66 @@
+[
+  {
+    "title": "ВЁРСТКА ДЛЯ\r\n«ФАКТ РЕМОНТА»",
+    "description": "По готовому дизайну (Figma) описать интерфейс вебсайта.",
+    "total_time": "16 часов",
+    "complite_time": "9 часов",
+    "tools": [
+      "html5",
+      "css3",
+      "figma",
+      "VSCode"
+    ],
+    "images": [
+      "",
+        "",
+          ""
+    ],
+    "github": "https://github.com/WfBW/Typesetting-for-Fakt-remonta",
+    "url": "https://wfbw.github.io/Typesetting-for-Fakt-remonta/"
+  },
+
+    {
+      "title": "«MORTALITY RATE»\r\nДЛЯ НИУ ВШЭ",
+      "description": "Построить две визуализации данных из датасета.",
+      "total_time": "7 дней",
+      "complite_time": "3 дня",
+      "tools": [
+        "html5",
+        "css3",
+        "javaScript",
+        "ajax",
+        "json",
+        "VSCode"
+      ],
+      "images": [
+        "",
+          "",
+            ""
+      ],
+      "github": "https://github.com/WfBW/Mortality-Rate-for-HSE",
+      "url": "https://wfbw.github.io/Mortality-Rate-for-HSE"
+    },
+
+      {
+        "title": "Разработка сервиса\r\n«Ad-Best»",
+        "description": "Разработать сервис баннерной рекламы.\r\nВозможности:\r\n-Регистрация рекламных кампаний и…",
+        "total_time": "∞",
+        "complite_time": "19 дней",
+        "tools": [
+          "html5",
+          "css3",
+          "javaScript",
+          "ajax",
+          "json",
+          "php",
+          "mySql",
+          "brackets"
+        ],
+        "images": [
+          "",
+            "",
+              ""
+        ],
+        "url": "https://ad-best.ru/"
+      }
+]
